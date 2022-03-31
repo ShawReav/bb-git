@@ -158,10 +158,6 @@
         <label>Test-jenkins Name</label>
         <type>Text</type>
     </nameField>
-     <nameField>
-        <label>Test-jenkins FirstName</label>
-        <type>Text</type>
-    </nameField>
     <pluralLabel>Test-jenkins2</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
