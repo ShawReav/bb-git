@@ -47,7 +47,7 @@
 	      <sf:deploy 
 			username="${sf.username}" 
 			password="${sf.password}" 
-	        serverurl="${sf.serverurl}"
+	        	serverurl="${sf.serverurl}"
 			deployRoot="src"/>	      
 	    </target>
 
