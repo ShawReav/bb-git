@@ -38,8 +38,7 @@
 	    	password="${sf.password}" 
 	    	sessionId="${sf.sessionId}" 
 	    	serverurl="${sf.serverurl}" 
-	    	maxPoll="${sf.maxPoll}" 
-		checkOnly="true"
+	    	maxPoll="${sf.maxPoll}"
 	    	recentValidationId="${sf.recentValidationId}"/>
 		</target>
 	    	
